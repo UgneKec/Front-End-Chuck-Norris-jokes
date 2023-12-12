@@ -38,7 +38,6 @@ button{
 
 .card p{
     color:white;    
-    font-weight: bold;
 }
 
 .results :nth-child(4n+1) .card-text{
